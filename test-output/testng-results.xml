@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-23T17:05:47 PST" name="Suite" finished-at="2020-11-23T17:05:47 PST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2020-11-23T17:05:47 PST" name="Test" finished-at="2020-11-23T17:05:47 PST" duration-ms="54">
+      <class name="mavenQuickStart.Mavenjava.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:mavenQuickStart.Mavenjava.SeleniumTest@f8c1ddd]" started-at="2020-11-23T17:05:47 PST" name="BrowserAutomation" finished-at="2020-11-23T17:05:47 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="Elements()[pri:0, instance:mavenQuickStart.Mavenjava.SeleniumTest@f8c1ddd]" started-at="2020-11-23T17:05:47 PST" name="Elements" finished-at="2020-11-23T17:05:47 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elements -->
+      </class> <!-- mavenQuickStart.Mavenjava.SeleniumTest -->
+      <class name="mavenQuickStart.Mavenjava.AppiumTest">
+        <test-method signature="IOSApp()[pri:0, instance:mavenQuickStart.Mavenjava.AppiumTest@7995092a]" started-at="2020-11-23T17:05:47 PST" name="IOSApp" finished-at="2020-11-23T17:05:47 PST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:mavenQuickStart.Mavenjava.AppiumTest@7995092a]" started-at="2020-11-23T17:05:47 PST" name="NativeAppAndroid" finished-at="2020-11-23T17:05:47 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- mavenQuickStart.Mavenjava.AppiumTest -->
+      <class name="mavenQuickStart.Mavenjava.RESTAPITest">
+        <test-method signature="DeleteTwitter()[pri:0, instance:mavenQuickStart.Mavenjava.RESTAPITest@7fc2413d]" started-at="2020-11-23T17:05:47 PST" name="DeleteTwitter" finished-at="2020-11-23T17:05:47 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method signature="PostJira()[pri:0, instance:mavenQuickStart.Mavenjava.RESTAPITest@7fc2413d]" started-at="2020-11-23T17:05:47 PST" name="PostJira" finished-at="2020-11-23T17:05:47 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- mavenQuickStart.Mavenjava.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
